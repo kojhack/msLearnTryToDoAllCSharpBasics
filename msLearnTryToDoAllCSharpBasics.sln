@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge-project-branching-looping-CSharp-main", "Challenge-project-branching-looping-CSharp-main", "{9DDC9AB5-DA66-460B-9BEF-2C9C86EA303A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ChallengeProject", "ChallengeProject", "{92F2AAFB-15CE-4CE9-B545-0D6BA8859204}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Starter", "Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\Starter.csproj", "{3A82EECB-7804-4112-9865-606F29528420}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Final", "Challenge-project-branching-looping-CSharp-main\ChallengeProject\Final\Final.csproj", "{641A33C6-7079-4046-8428-26593FE46E9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A82EECB-7804-4112-9865-606F29528420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A82EECB-7804-4112-9865-606F29528420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A82EECB-7804-4112-9865-606F29528420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A82EECB-7804-4112-9865-606F29528420}.Release|Any CPU.Build.0 = Release|Any CPU
+		{641A33C6-7079-4046-8428-26593FE46E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641A33C6-7079-4046-8428-26593FE46E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641A33C6-7079-4046-8428-26593FE46E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641A33C6-7079-4046-8428-26593FE46E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{92F2AAFB-15CE-4CE9-B545-0D6BA8859204} = {9DDC9AB5-DA66-460B-9BEF-2C9C86EA303A}
+		{3A82EECB-7804-4112-9865-606F29528420} = {92F2AAFB-15CE-4CE9-B545-0D6BA8859204}
+		{641A33C6-7079-4046-8428-26593FE46E9E} = {92F2AAFB-15CE-4CE9-B545-0D6BA8859204}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71F6C04E-EA19-42E2-9188-6A2C75F30EE3}
+	EndGlobalSection
+EndGlobal

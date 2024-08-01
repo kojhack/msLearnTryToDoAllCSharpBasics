@@ -1,0 +1,15 @@
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter.deps.json
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter.dll
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter.pdb
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.sourcelink.json
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.dll
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/refint/Starter.dll
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.pdb
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/ref/Starter.dll
