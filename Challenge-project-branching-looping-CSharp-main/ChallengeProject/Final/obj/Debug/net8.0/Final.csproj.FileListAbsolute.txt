@@ -1,0 +1,15 @@
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.deps.json
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.runtimeconfig.json
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.dll
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.pdb
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.AssemblyInfoInputs.cache
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.AssemblyInfo.cs
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.csproj.CoreCompileInputs.cache
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.sourcelink.json
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.dll
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/refint/Final.dll
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.pdb
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.genruntimeconfig.cache
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/ref/Final.dll
