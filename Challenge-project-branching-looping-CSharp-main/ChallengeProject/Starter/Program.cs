@@ -289,10 +289,18 @@ do
                 if (ourAnimals[i, 0] != "ID #: ")
                 {
                     petCount += 1;
+					Console.WriteLine();
+                    for (int j = 0; j < 6; j++)
+                    {
+                        Console.WriteLine(ourAnimals[i, j].ToString());
+                    }
                 }
-            }
 
-              // get a description of the pet's physical appearance - animalPhysicalDescription can be blank.
+
+            }
+            /*while (anotherPet == "y" && petCount < maxPets)
+            {
+                // get a description of the pet's physical appearance - animalPhysicalDescription can be blank.
                 do
                 {
                     Console.WriteLine("Enter a physical description of the pet (size, color, gender, weight, housebroken)");
@@ -325,12 +333,14 @@ do
                         }
                     }
                 } while (validEntry == false); 
-                
+
             Console.WriteLine("\n\rPress the Enter key to continue");
             readResult = Console.ReadLine();
 
             
 
+            }*/
+              
             break;
         case "4":
             // Ensure animal nicknames and personality descriptions are complete
