@@ -16,6 +16,7 @@ string anotherPet = "y";
 bool validEntry = false;
 int petAge = 0;
 
+
 // array used to store runtime data, there is no persisted data
 string[,] ourAnimals = new string[maxPets, 6];
 
@@ -126,6 +127,7 @@ do
 			readResult = Console.ReadLine();
 
 			break;
+
 
 		case "2":
 			// Add a new animal friend to the ourAnimals array
@@ -282,6 +284,7 @@ do
 
 			break;
 
+
 		case "3":
 			// Ensure animal ages and physical descriptions are complete
 			for (int i = 0; i < maxPets; i++)
@@ -313,7 +316,7 @@ do
 						if (readResult != null)
 						{
 							animalPhysicalDescription = readResult.ToLower();
-							if(animalPhysicalDescription == "")
+							if (animalPhysicalDescription == "")
 							{
 								validEntry = false;
 							}
@@ -323,8 +326,8 @@ do
 							}
 						}
 
-					}while(validEntry == false);
-				ourAnimals[i, 4] = "Phusical description: " + animalPhysicalDescription;
+					} while (validEntry == false);
+					ourAnimals[i, 4] = "Phusical description: " + animalPhysicalDescription;
 				}
 
 
@@ -333,6 +336,8 @@ do
 			readResult = Console.ReadLine();
 
 			break;
+
+
 		case "4":
 			// Ensure animal nicknames and personality descriptions are complete
 			for (int i = 0; i < maxPets; i++)
@@ -348,7 +353,7 @@ do
 						{
 
 							animalNickname = readResult;
-							if(animalNickname == "")
+							if (animalNickname == "")
 							{
 								validEntry = false;
 							}
@@ -371,7 +376,7 @@ do
 						if (readResult != null)
 						{
 							animalPersonalityDescription = readResult.ToLower();
-							if(animalPersonalityDescription == "")
+							if (animalPersonalityDescription == "")
 							{
 								validEntry = false;
 							}
@@ -381,8 +386,8 @@ do
 							}
 						}
 
-					}while(validEntry == false);
-				ourAnimals[i, 4] = "Phusical description: " + animalPersonalityDescription;
+					} while (validEntry == false);
+					ourAnimals[i, 4] = "Phusical description: " + animalPersonalityDescription;
 				}
 
 
@@ -391,6 +396,8 @@ do
 			readResult = Console.ReadLine();
 
 			break;
+
+
 		case "5":
 			// Edit an animal’s age");
 			Console.WriteLine("UNDER CONSTRUCTION - please check back next month to see progress.");

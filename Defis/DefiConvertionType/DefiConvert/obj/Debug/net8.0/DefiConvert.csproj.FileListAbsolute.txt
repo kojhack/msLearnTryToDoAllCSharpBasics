@@ -1,0 +1,15 @@
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiConvertionType/DefiConvert/bin/Debug/net8.0/DefiConvert
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiConvertionType/DefiConvert/bin/Debug/net8.0/DefiConvert.deps.json
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiConvertionType/DefiConvert/bin/Debug/net8.0/DefiConvert.runtimeconfig.json
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiConvertionType/DefiConvert/bin/Debug/net8.0/DefiConvert.dll
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiConvertionType/DefiConvert/bin/Debug/net8.0/DefiConvert.pdb
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiConvertionType/DefiConvert/obj/Debug/net8.0/DefiConvert.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiConvertionType/DefiConvert/obj/Debug/net8.0/DefiConvert.AssemblyInfoInputs.cache
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiConvertionType/DefiConvert/obj/Debug/net8.0/DefiConvert.AssemblyInfo.cs
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiConvertionType/DefiConvert/obj/Debug/net8.0/DefiConvert.csproj.CoreCompileInputs.cache
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiConvertionType/DefiConvert/obj/Debug/net8.0/DefiConvert.sourcelink.json
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiConvertionType/DefiConvert/obj/Debug/net8.0/DefiConvert.dll
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiConvertionType/DefiConvert/obj/Debug/net8.0/refint/DefiConvert.dll
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiConvertionType/DefiConvert/obj/Debug/net8.0/DefiConvert.pdb
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiConvertionType/DefiConvert/obj/Debug/net8.0/DefiConvert.genruntimeconfig.cache
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiConvertionType/DefiConvert/obj/Debug/net8.0/ref/DefiConvert.dll
