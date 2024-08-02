@@ -291,12 +291,13 @@ do
 
 					do
 					{
-						Console.WriteLine("Enter the value of age");
+						Console.WriteLine($"Enter the value of the pet {ourAnimals[i, 0]} age");
 						readResult = Console.ReadLine();
 						if (readResult != null)
 						{
 
 							animalAge = readResult;
+							validEntry = int.TryParse(animalAge, out petAge);
 						}
 					} while (validEntry == false);
 
@@ -307,16 +308,23 @@ do
 				{
 					do
 					{
-						Console.WriteLine("Enter the physical description of the pet");
+						Console.WriteLine($"Enter the physical description of the pet {ourAnimals[i, 0]} (size, color, gender, weight, housebroken)");
 						readResult = Console.ReadLine();
 						if (readResult != null)
 						{
-
-							animalAge = readResult;
+							animalPhysicalDescription = readResult.ToLower();
+							if(animalPhysicalDescription == "")
+							{
+								validEntry = false;
+							}
+							else
+							{
+								validEntry = true;
+							}
 						}
 
 					}while(validEntry == false);
-
+				ourAnimals[i, 4] = "Phusical description: " + animalPhysicalDescription;
 				}
 
 
@@ -361,7 +369,7 @@ do
             
 
             }*/
-			Console.WriteLine("\n\rPress the Enter key to continue");
+			Console.WriteLine("\n\rAge and physical description fields are complete for our animals. \n\rPress the Enter key to continue");
 			readResult = Console.ReadLine();
 
 			break;
