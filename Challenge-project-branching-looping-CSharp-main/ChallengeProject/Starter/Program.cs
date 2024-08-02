@@ -329,46 +329,6 @@ do
 
 
 			}
-			/*while (anotherPet == "y" && petCount < maxPets)
-            {
-                // get a description of the pet's physical appearance - animalPhysicalDescription can be blank.
-                do
-                {
-                    Console.WriteLine("Enter a physical description of the pet (size, color, gender, weight, housebroken)");
-                    readResult = Console.ReadLine();
-                    if (readResult != null)
-                    {
-                        animalPhysicalDescription = readResult.ToLower();
-                        if (animalPhysicalDescription == "")
-                        {
-                            animalPhysicalDescription = "tbd";
-                        }
-                    }
-                } while (validEntry == false);
-
-
-                 do
-                {
-                    Console.WriteLine("Enter the pet's age or enter ? if unknown");
-                    readResult = Console.ReadLine();
-                    if (readResult != null)
-                    {
-                        animalAge = readResult;
-                        if (animalAge != "?")
-                        {
-                            validEntry = int.TryParse(animalAge, out petAge);
-                        }
-                        else
-                        {
-                            validEntry = true;
-                        }
-                    }
-                } while (validEntry == false); 
-
-           
-            
-
-            }*/
 			Console.WriteLine("\n\rAge and physical description fields are complete for our animals. \n\rPress the Enter key to continue");
 			readResult = Console.ReadLine();
 
