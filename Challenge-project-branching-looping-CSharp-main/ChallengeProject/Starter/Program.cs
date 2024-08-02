@@ -288,15 +288,48 @@ do
             {
                 if (ourAnimals[i, 0] != "ID #: ")
                 {
-                    Console.WriteLine();
-                    for (int j = 0; j < 6; j++)
-                    {
-                        Console.WriteLine(ourAnimals[i, j].ToString());
-                    }
+                    petCount += 1;
                 }
             }
+
+              // get a description of the pet's physical appearance - animalPhysicalDescription can be blank.
+                do
+                {
+                    Console.WriteLine("Enter a physical description of the pet (size, color, gender, weight, housebroken)");
+                    readResult = Console.ReadLine();
+                    if (readResult != null)
+                    {
+                        animalPhysicalDescription = readResult.ToLower();
+                        if (animalPhysicalDescription == "")
+                        {
+                            animalPhysicalDescription = "tbd";
+                        }
+                    }
+                } while (validEntry == false);
+
+
+                 do
+                {
+                    Console.WriteLine("Enter the pet's age or enter ? if unknown");
+                    readResult = Console.ReadLine();
+                    if (readResult != null)
+                    {
+                        animalAge = readResult;
+                        if (animalAge != "?")
+                        {
+                            validEntry = int.TryParse(animalAge, out petAge);
+                        }
+                        else
+                        {
+                            validEntry = true;
+                        }
+                    }
+                } while (validEntry == false); 
+                
             Console.WriteLine("\n\rPress the Enter key to continue");
             readResult = Console.ReadLine();
+
+            
 
             break;
         case "4":
