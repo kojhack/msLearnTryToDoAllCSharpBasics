@@ -366,7 +366,7 @@ do
 				{
 					do
 					{
-						Console.WriteLine($"Enter the description of the personality of the pet {ourAnimals[i, 0]} (size, color, gender, weight, housebroken)");
+						Console.WriteLine($"Enter the description of the personality of the pet {ourAnimals[i, 0]} (likes or dislikes, tricks, energy level)");
 						readResult = Console.ReadLine();
 						if (readResult != null)
 						{
