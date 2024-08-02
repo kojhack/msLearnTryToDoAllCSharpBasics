@@ -138,8 +138,7 @@ do
             //    5. a description of the pet's physical appearance. can be blank.
             //    6. a description of the pet's personality. can be blank.
 
-            anotherPet = "y";
-            petCount = 0;
+            
             for (int i = 0; i < maxPets; i++)
             {
                 if (ourAnimals[i, 0] != "ID #: ")
