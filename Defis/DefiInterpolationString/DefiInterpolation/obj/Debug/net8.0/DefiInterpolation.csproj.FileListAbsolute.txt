@@ -1,0 +1,15 @@
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiInterpolationString/DefiInterpolation/bin/Debug/net8.0/DefiInterpolation
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiInterpolationString/DefiInterpolation/bin/Debug/net8.0/DefiInterpolation.deps.json
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiInterpolationString/DefiInterpolation/bin/Debug/net8.0/DefiInterpolation.runtimeconfig.json
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiInterpolationString/DefiInterpolation/bin/Debug/net8.0/DefiInterpolation.dll
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiInterpolationString/DefiInterpolation/bin/Debug/net8.0/DefiInterpolation.pdb
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiInterpolationString/DefiInterpolation/obj/Debug/net8.0/DefiInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiInterpolationString/DefiInterpolation/obj/Debug/net8.0/DefiInterpolation.AssemblyInfoInputs.cache
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiInterpolationString/DefiInterpolation/obj/Debug/net8.0/DefiInterpolation.AssemblyInfo.cs
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiInterpolationString/DefiInterpolation/obj/Debug/net8.0/DefiInterpolation.csproj.CoreCompileInputs.cache
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiInterpolationString/DefiInterpolation/obj/Debug/net8.0/DefiInterpolation.sourcelink.json
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiInterpolationString/DefiInterpolation/obj/Debug/net8.0/DefiInterpolation.dll
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiInterpolationString/DefiInterpolation/obj/Debug/net8.0/refint/DefiInterpolation.dll
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiInterpolationString/DefiInterpolation/obj/Debug/net8.0/DefiInterpolation.pdb
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiInterpolationString/DefiInterpolation/obj/Debug/net8.0/DefiInterpolation.genruntimeconfig.cache
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiInterpolationString/DefiInterpolation/obj/Debug/net8.0/ref/DefiInterpolation.dll
