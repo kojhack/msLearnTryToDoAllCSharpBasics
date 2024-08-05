@@ -1,0 +1,15 @@
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiReverseString/DefiReverse/bin/Debug/net8.0/DefiReverse
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiReverseString/DefiReverse/bin/Debug/net8.0/DefiReverse.deps.json
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiReverseString/DefiReverse/bin/Debug/net8.0/DefiReverse.runtimeconfig.json
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiReverseString/DefiReverse/bin/Debug/net8.0/DefiReverse.dll
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiReverseString/DefiReverse/bin/Debug/net8.0/DefiReverse.pdb
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiReverseString/DefiReverse/obj/Debug/net8.0/DefiReverse.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiReverseString/DefiReverse/obj/Debug/net8.0/DefiReverse.AssemblyInfoInputs.cache
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiReverseString/DefiReverse/obj/Debug/net8.0/DefiReverse.AssemblyInfo.cs
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiReverseString/DefiReverse/obj/Debug/net8.0/DefiReverse.csproj.CoreCompileInputs.cache
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiReverseString/DefiReverse/obj/Debug/net8.0/DefiReverse.sourcelink.json
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiReverseString/DefiReverse/obj/Debug/net8.0/DefiReverse.dll
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiReverseString/DefiReverse/obj/Debug/net8.0/refint/DefiReverse.dll
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiReverseString/DefiReverse/obj/Debug/net8.0/DefiReverse.pdb
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiReverseString/DefiReverse/obj/Debug/net8.0/DefiReverse.genruntimeconfig.cache
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/DefiReverseString/DefiReverse/obj/Debug/net8.0/ref/DefiReverse.dll
