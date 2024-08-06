@@ -147,7 +147,7 @@ do
             bool noMatchesDog = true;
             string dogDescription = "";
 
-            // #6 loop through the ourAnimals array to search for matching animals
+            
             for (int i = 0; i < maxPets; i++)
             {
                 bool dogMatch = true;
