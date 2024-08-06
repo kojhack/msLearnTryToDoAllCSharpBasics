@@ -1,0 +1,15 @@
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-Project-variable-data-in-CSharp-main/Starter/bin/Debug/net7.0/Starter
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-Project-variable-data-in-CSharp-main/Starter/bin/Debug/net7.0/Starter.deps.json
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-Project-variable-data-in-CSharp-main/Starter/bin/Debug/net7.0/Starter.runtimeconfig.json
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-Project-variable-data-in-CSharp-main/Starter/bin/Debug/net7.0/Starter.dll
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-Project-variable-data-in-CSharp-main/Starter/bin/Debug/net7.0/Starter.pdb
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-Project-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-Project-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/Starter.AssemblyInfoInputs.cache
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-Project-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/Starter.AssemblyInfo.cs
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-Project-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/Starter.csproj.CoreCompileInputs.cache
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-Project-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/Starter.sourcelink.json
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-Project-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/Starter.dll
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-Project-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/refint/Starter.dll
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-Project-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/Starter.pdb
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-Project-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/Starter.genruntimeconfig.cache
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-Project-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/ref/Starter.dll
