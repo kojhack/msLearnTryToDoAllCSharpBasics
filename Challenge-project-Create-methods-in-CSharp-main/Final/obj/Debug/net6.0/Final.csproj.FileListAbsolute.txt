@@ -1,0 +1,15 @@
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-Create-methods-in-CSharp-main/Final/bin/Debug/net6.0/Final
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-Create-methods-in-CSharp-main/Final/bin/Debug/net6.0/Final.deps.json
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-Create-methods-in-CSharp-main/Final/bin/Debug/net6.0/Final.runtimeconfig.json
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-Create-methods-in-CSharp-main/Final/bin/Debug/net6.0/Final.dll
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-Create-methods-in-CSharp-main/Final/bin/Debug/net6.0/Final.pdb
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net6.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net6.0/Final.AssemblyInfoInputs.cache
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net6.0/Final.AssemblyInfo.cs
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net6.0/Final.csproj.CoreCompileInputs.cache
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net6.0/Final.sourcelink.json
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net6.0/Final.dll
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net6.0/refint/Final.dll
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net6.0/Final.pdb
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net6.0/Final.genruntimeconfig.cache
+/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net6.0/ref/Final.dll
