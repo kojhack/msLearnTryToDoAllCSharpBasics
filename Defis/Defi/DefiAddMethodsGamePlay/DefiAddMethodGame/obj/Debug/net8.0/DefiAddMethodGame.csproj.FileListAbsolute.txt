@@ -1,0 +1,15 @@
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/Defi/DefiAddMethodsGamePlay/DefiAddMethodGame/bin/Debug/net8.0/DefiAddMethodGame
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/Defi/DefiAddMethodsGamePlay/DefiAddMethodGame/bin/Debug/net8.0/DefiAddMethodGame.deps.json
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/Defi/DefiAddMethodsGamePlay/DefiAddMethodGame/bin/Debug/net8.0/DefiAddMethodGame.runtimeconfig.json
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/Defi/DefiAddMethodsGamePlay/DefiAddMethodGame/bin/Debug/net8.0/DefiAddMethodGame.dll
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/Defi/DefiAddMethodsGamePlay/DefiAddMethodGame/bin/Debug/net8.0/DefiAddMethodGame.pdb
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/Defi/DefiAddMethodsGamePlay/DefiAddMethodGame/obj/Debug/net8.0/DefiAddMethodGame.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/Defi/DefiAddMethodsGamePlay/DefiAddMethodGame/obj/Debug/net8.0/DefiAddMethodGame.AssemblyInfoInputs.cache
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/Defi/DefiAddMethodsGamePlay/DefiAddMethodGame/obj/Debug/net8.0/DefiAddMethodGame.AssemblyInfo.cs
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/Defi/DefiAddMethodsGamePlay/DefiAddMethodGame/obj/Debug/net8.0/DefiAddMethodGame.csproj.CoreCompileInputs.cache
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/Defi/DefiAddMethodsGamePlay/DefiAddMethodGame/obj/Debug/net8.0/DefiAddMethodGame.sourcelink.json
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/Defi/DefiAddMethodsGamePlay/DefiAddMethodGame/obj/Debug/net8.0/DefiAddMethodGame.dll
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/Defi/DefiAddMethodsGamePlay/DefiAddMethodGame/obj/Debug/net8.0/refint/DefiAddMethodGame.dll
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/Defi/DefiAddMethodsGamePlay/DefiAddMethodGame/obj/Debug/net8.0/DefiAddMethodGame.pdb
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/Defi/DefiAddMethodsGamePlay/DefiAddMethodGame/obj/Debug/net8.0/DefiAddMethodGame.genruntimeconfig.cache
+/workspaces/msLearnTryToDoAllCSharpBasics/Defis/Defi/DefiAddMethodsGamePlay/DefiAddMethodGame/obj/Debug/net8.0/ref/DefiAddMethodGame.dll
