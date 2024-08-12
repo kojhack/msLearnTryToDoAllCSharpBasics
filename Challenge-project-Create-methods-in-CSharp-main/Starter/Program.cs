@@ -1,5 +1,4 @@
-﻿using System;
-
+﻿
 Random random = new Random();
 Console.CursorVisible = false;
 int height = Console.WindowHeight - 1;

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gXN8dUKDPYk=",
+  "success": true,
+  "projectFilePath": "/workspaces/msLearnTryToDoAllCSharpBasics/Challenge-project-Create-methods-in-CSharp-main/Starter/Starter.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/6.0.32/microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.32/microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.32/microsoft.netcore.app.host.linux-x64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}
